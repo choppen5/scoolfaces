@@ -1,6 +1,9 @@
 .groupinfo {
 	border-bottom: 2px solid #333;
 }
+.classroom {
+  padding-top: 15px;
+}
 
 
 li {
@@ -16,4 +19,9 @@ li {
 .person-info {
 	margin-top: 20px;
 
+}
+.view-details {
+  @include border-radius(3px);
+  font-size: 14px;
+  padding: 5px 15px;
 }
