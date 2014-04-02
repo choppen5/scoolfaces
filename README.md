@@ -13,6 +13,9 @@ Currently, there is a lot of school wide email lists, but you don't know the ful
 
 Simple problem.. simple solution.
 
+(why the funky name?  I misspelled School when creating this git repository!  And the domain was availible. Viola.)
+
+
 ##Features
 
 - Join the school(organization)
@@ -24,6 +27,25 @@ Simple problem.. simple solution.
 - There is light messaging - ie leave a mesasge for others in the group
 - Messageing is email or sms based, or post a picture
 
-(why the funky name?  I misspelled School when creating this git repository!  And the domain was availible. Viola.)
+## Design
+
+Current design with high level features - PDF http://uploadir.com/uploads/uxj8ro0w/downloads/new
+
+## Tech
+
+Currrently desiging withan "Inside Out" approach.  The intention is to make the UI usable and fully mocked out in HTML.  Using Foundation and SCSS only currently.  Looking at Bootstrap for the front end flows.  After a decent UI is created, need to a framework for authentication, data storage, back end etc. Considered and implmented a few of these in trial, not committed to any yet:
+- Node.js + Express + Mongo
+- Firebase + Angular for authenticaiton (no backend!)
+- Ruby Sinatra, Rails, and Padrino
+
+
+
+
+
+
+
+
+
+
 
 
