@@ -9,11 +9,11 @@ The school CIS DeAvila in San Francisco is a testamant to that, and the inspirat
 
 ScoolFaces takes the core of that... getting parents to recognize and talk to each other, to get together outside of school duties, and will "make an app" of it.  Core functions are a visual address book and communications.  
 
-The initial funciton is to put a name and face with every kid, and parent in the classroom.  And make messaging and contact information easily availible.  As a parent of two kids, I have a hard time meeting and remembering the names of the kids and parents in my class.  ScoolFaces was born out of that one key need - what are the names an faces of the parents and kids in my  childs school? 
+The initial function is to put a name and face with every kid, and parent in the classroom.  As a parent of two kids, I have a hard time meeting and remembering the names of the kids and parents in my class.  ScoolFaces was born out of that one key need - what are the names an faces of the parents and kids in my  childs school? 
 
-Currently, there is a lot of school wide email lists  in use, but you don't know the full name or face of a parent emailing. Likewise, you see kids in their school, don't know there name.  Some times many times in a row. Embarassing. 
+It also makes contact information easily availible, and is the easiset way to send messages and communicate with class members.  Currently, there are many school-wide email lists in use, but you don't know the full name or face of a parent emailing. Likewise, you see kids/parents at school, talk to them, but don't know their names.  Sometimes, that happens many times in a row. Embarassing. 
 
-Simple problem.. simple solution. ScoolFaces.  (why the funky name?  I misspelled School when creating this git repository!  And the domain was availible. Viola.)
+Simple problem.. simple solution. ScoolFaces.  (why the funky name?  I misspelled "School" when creating this git repository!  And the domain was availible. Viola.)
 
 
 ##Features
